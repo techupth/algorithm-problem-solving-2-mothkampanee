@@ -38,5 +38,5 @@ function findBookIndex(books, searchBook) {
   return index;
 }
 
-const result = findBookIndex(books, "A Tale of Two Cities");
+const result = findBookIndex(books, "Harry Potter");
 console.log(result);
